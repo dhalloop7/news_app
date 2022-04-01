@@ -1,0 +1,7 @@
+{
+  "appName": "News App",
+  "commonError": "Something went wrong, Please try again later",
+  "pageNotFound": "Page not found",
+  "welcomeMessage": "Welcome To News App",
+  "noDataFound":"No Data Found"
+}
